@@ -67,8 +67,8 @@ class _HomePageState extends State<HomePage> {
                       ],
                     ));
           },
-          child: const Icon(CupertinoIcons.add),
           padding: EdgeInsets.zero,
+          child: const Icon(CupertinoIcons.add),
         ),
       ),
       child: ListView.builder(
